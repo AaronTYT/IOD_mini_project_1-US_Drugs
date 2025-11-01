@@ -3,10 +3,10 @@
 The project focuses on identifying how factors such as year, state, and drug type influence mortality rates and overall public health outcomes.
 
 ## Project Resources:
-- 🎞️ **Video Presentation:** [Watch Here](video_presentation.mp4)
+- 🎞️ **Video Presentation: (update in progress)** [Watch Here](video_presentation.mp4)
 - 🖼️ **Presentation:** [View Slides](Mini_Project1_Aaron_Tan_Drugs.pptx)
-- 📄 **Mini-Project-1 Description Assignment Details:** [Read Report](Mini Project 1 Description.docx)
-- Kaggle dataset: [link text](https://www.kaggle.com/datasets/joebeachcapital/drug-overdose-deaths)
+- 📄 **Mini-Project-1 Description Assignment Details:** [Read Report](Mini_Project_1_Description.docx)
+- 💾 **Kaggle dataset:** [dataset](https://www.kaggle.com/datasets/joebeachcapital/drug-overdose-deaths)
 
 ## 🧭 Project Objectives
 - Perform **data cleaning** and handle missing or inconsistent records  
@@ -34,15 +34,22 @@ The report provides provisional estimates of U.S. drug overdose deaths, publishe
 ### Key Insights Found:
 
 **Map US:**
+<br>
+
 ![alt text](resources/usa.jpg)
 
 **Top 5 States of Deaths:**
+<br>
+
 **2015:**
 ![alt text](resources/usa-2015.png)
 
 ![alt text](resources/usa-2015-stats.jpg)
+<br>
 
 **2017:**
+<br>
+
 ![alt text](resources/usa-2017.png)
 
 ![alt text](resources/usa-2017-stats.jpg)
@@ -61,6 +68,7 @@ This trend highlights a clear geographic concentration of overdose deaths in the
 **2. Beyond 2017, 3 major regions changes.**
 
 ![alt text](resources/insight-2.png)
+<br>
 South-East tends to be the most overdoses drug use before 2017. After 2018, it drops by a difference of 58,394 (-20.2%).
 Mid-West tends to have a strong percentage (from 37% to 46.2%) of drug overdoses deaths in terms of correlation increase.
 West tends to also have a strong percentage (from 12.9% to 48.4%) of drug overdoses deaths in terms of correlation increase.
