@@ -3,7 +3,7 @@
 The project focuses on identifying how factors such as year, state, and drug type influence mortality rates and overall public health outcomes.
 
 ## Project Resources:
-- 🎞️ **Video Presentation: (update in progress)** [Watch Here](video_presentation.mp4)
+- 🎞️ **Video Presentation: (update in progress)** [Watch Here](https://youtu.be/QykD7mkJXl4)
 - 🖼️ **Presentation:** [View Slides](Mini_Project1_Aaron_Tan_Drugs.pptx)
 - 📄 **Mini-Project-1 Description Assignment Details:** [Read Report](Mini_Project_1_Description.docx)
 - 💾 **Kaggle dataset:** [dataset](https://www.kaggle.com/datasets/joebeachcapital/drug-overdose-deaths)
