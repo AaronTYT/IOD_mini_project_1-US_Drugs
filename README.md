@@ -3,7 +3,7 @@
 The project focuses on identifying how factors such as year, state, and drug type influence mortality rates and overall public health outcomes.
 
 ## Project Resources:
-- 🎞️ **Video Presentation: (update in progress)** [Watch Here](https://youtu.be/QykD7mkJXl4)
+- 🎞️ **Video Presentation:** [Watch Here](https://youtu.be/QykD7mkJXl4)
 - 🖼️ **Presentation:** [View Slides](Mini_Project1_Aaron_Tan_Drugs.pptx)
 - 📄 **Mini-Project-1 Description Assignment Details:** [Read Report](Mini_Project_1_Description.docx)
 - 💾 **Kaggle dataset:** [dataset](https://www.kaggle.com/datasets/joebeachcapital/drug-overdose-deaths)
@@ -21,7 +21,7 @@ The project focuses on identifying how factors such as year, state, and drug typ
     - **Expected Outcomes** – Describe the anticipated improvements or policy impacts resulting from the proposed actions.
 
 
-## 🧠 Tech Stack
+## 🧠 Overview Tech Stack
 - Python (Jupyter Notebook)
 - Pandas – Data cleaning and transformation
 - Matplotlib / Seaborn – Data visualization
@@ -32,18 +32,18 @@ The report provides provisional estimates of U.S. drug overdose deaths, publishe
 
 
 ### Key Insights Found:
-
 **Map US:**
 <br>
 
 ![alt text](resources/usa.jpg)
-
+<br>
 **Top 5 States of Deaths:**
 <br>
 
 **2015:**
+<br>
 ![alt text](resources/usa-2015.png)
-
+<br>
 ![alt text](resources/usa-2015-stats.jpg)
 <br>
 
@@ -77,13 +77,17 @@ This trend highlights the clear evidence that the overdose deaths in the South-E
 
 
 **3. 2018 Correlation Drug Spikes.**
+<br>
 ![alt text](resources/insight-3.png)
+<br>
 There is no seasonal changes beyond 2018 difference either in the past of 2018 nor 2012.
 Meaning that if an unusual spike occur back in 2018, we can detect early on which drugs or what external factors that may cause the spike to prevent that from happening again within the near future.
-
+<br>
 
 **4. Highest and Lowest Drugs within year blocks**
+<br>
 ![alt text](resources/insight-4.png)
+<br>
 Era: 2015 till 2017:
 - Natural & Semi-synthetic opioids: highest deaths.
 - Psychostimulants: lowest deaths.
